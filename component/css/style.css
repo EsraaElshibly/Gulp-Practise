@@ -1,0 +1,42 @@
+body{background-color: rgb(212, 214, 212)}
+
+.header{
+     text-align: center;
+     font-family: tahoma;
+     color: rgb(138, 76, 138);
+}
+
+nav a { 
+     color: white;
+     font-size: 20px;
+}
+      
+.header h1{padding: 10px 0;margin: 10px 0;}    
+.header img{width: 96%; height:500px ; margin: 2%;} 
+
+.idet-box h3{
+     margin-top: 20px;
+     color: rgb(138, 76, 138) ;
+     text-align: center ;
+}
+
+.third-sec {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+ }
+ 
+ .box {
+     height:250px ;
+     width: 32% ;
+     margin: 1% ;
+     padding-top: 100px;
+     font-weight: bold;
+     text-align: center ;
+ }
+ 
+ .first {background-color:aquamarine;}
+ .second {background-color:violet ;}
+ .third {background-color: cadetblue;}
+
+ footer{height: 50px; text-align: center; padding: 5px ;}
